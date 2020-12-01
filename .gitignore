@@ -1,0 +1,11 @@
+/*.user
+/bin
+/obj
+/UnitTest/bin
+/UnitTest/obj
+/Properties/PublishProfiles
+/TestResults
+/TestUnitarios/obj
+/TestUnitarios/TestResults
+/TestUnitarios/bin
+/.vs
